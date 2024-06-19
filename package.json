@@ -34,14 +34,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/infinitered/nsfwjs.git"
+    "url": "git+https://github.com/TheOaksDev/nsfwjs.git"
   },
   "dependencies": {},
   "peerDependencies": {
-    "@tensorflow/tfjs": "^4.0.0"
+    "@tensorflow/tfjs": "3.7.0"
   },
   "devDependencies": {
-    "@tensorflow/tfjs": "^4.0.0",
+    "@tensorflow/tfjs": "3.7.0",
     "@types/jest": "^28.1.6",
     "all-contributors-cli": "^6.20.0",
     "babel-core": "^6.26.3",
