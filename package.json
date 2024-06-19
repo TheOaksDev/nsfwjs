@@ -1,6 +1,6 @@
 {
   "name": "nsfwjs",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "unpkg": "dist/nsfwjs.min.js",
   "description": "Detect NSFW content client-side",
   "module": "dist/esm/index.js",
